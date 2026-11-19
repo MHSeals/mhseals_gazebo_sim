@@ -1,3 +1,5 @@
+> **Renamed:** this Gazebo package was `MHSeals/mhseals_sim` and is now `MHSeals/mhseals_gazebo_sim`. The name `mhseals_sim` now belongs to the Unity RoboBoat simulator, [MHSeals/mhseals_sim](https://github.com/MHSeals/mhseals_sim).
+
 ## ROS2 SLAM Autonomous Navigation with SLAM Toolbox and Nav2
 
 Use SLAM Toolbox to generate a map of the environment, then utilize the Nav2 stack for autonomous navigation within that mapped space. Rviz provides visualization of the robot, its surroundings, and ongoing navigation tasks.
